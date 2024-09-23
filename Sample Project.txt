@@ -6,6 +6,7 @@ System.out.println("SampleProject");
 System.out.println("NewSampleProject");
 System.out.println("AddedBranch");
 System.out.println("Nakul User has forked this Project");
+System.out.println("Issue has been closed");
 }
 
 
