@@ -3,6 +3,7 @@ public class newSampleProject{
 public static void main(String args[]){
 
 System.out.println("SampleProject");
+System.out.println("NewSampleProject");
 }
 
 
