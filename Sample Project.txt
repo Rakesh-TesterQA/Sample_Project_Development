@@ -5,7 +5,7 @@ public static void main(String args[]){
 System.out.println("SampleProject");
 System.out.println("NewSampleProject");
 System.out.println("AddedBranch");
-System.out.println("User has forked this Project");
+System.out.println("Nakul User has forked this Project");
 }
 
 
